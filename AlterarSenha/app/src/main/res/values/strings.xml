@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlterarSenha</string>
+    <string name="email">Email</string>
+    <string name="recuperarsenha">Recuperar Senha</string>
+</resources>

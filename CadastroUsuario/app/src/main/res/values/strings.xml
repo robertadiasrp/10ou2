@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CadastroUsuario</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="senha">Senha</string>
+    <string name="confirmasenha">ConfirmaSenha</string>
+    <string name="cadastrar">Cadastro</string>
+</resources>
